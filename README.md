@@ -98,7 +98,7 @@ Conversation_AI_Chatbot/
 
 ## 📄 **License**
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/raghavshuklaofficial/Conversation_AI_Chatbot/blob/main/LICENSE) file for details.
 
 ---
 
